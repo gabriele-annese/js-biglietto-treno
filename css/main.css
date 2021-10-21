@@ -6,8 +6,15 @@ header {
 
 .main-content{
     color: #000;
+    border: 2px solid grey;
 }
 
 #biglietto {
     color: #a6160a;
+}
+
+.btn-stile{
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-size: 30px;
 }
